@@ -1,16 +1,37 @@
-## Hi there 👋
+# Привет, я Сафия 👋
 
-<!--
-**sonyacreate/sonyacreate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Будущий аналитик данных · КНИТУ-КХТИ, Прикладная математика и информатика, 2026
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Числа — это мой язык. За каждой цифрой есть история, и я хочу её читать.
+Иду в аналитику — интересно, как данные помогают понять пользователя,
+найти слабые места продукта и принять решение, которое реально что-то меняет.
+
+---
+
+## 🛠 Стек
+
+`Python` `pandas` `numpy` `matplotlib` `seaborn` `scipy` `Plotly` `Streamlit` `SQL` `PostgreSQL` `Git` `Jupyter Notebook`
+
+---
+
+## 📂 Проекты портфолио
+
+| Проект | Описание | Стек | Статус |
+|--------|----------|------|--------|
+| [A/B-тест: анализ ecommerce-эксперимента](#) | Статанализ A/B-теста на реальных данных Kaggle. Обнаружение проблем в данных, z-test, effect size, бизнес-вывод для PM | Python · pandas · scipy · seaborn | 🔄 В процессе |
+| [Воронка и retention: GA4 ecommerce](#) | Когортный анализ удержания, воронка конверсии, SQL window functions в BigQuery | SQL · BigQuery · Python | 🔜 Скоро |
+| [Churn-анализ: отток клиентов](#) | Сегментация клиентов, feature importance, продуктовые рекомендации | Python · sklearn · SQL | 🔜 Скоро |
+
+---
+
+## 🙋 Немного о себе
+
+- 🎓 КНИТУ-КХТИ, Прикладная математика и информатика, выпуск 2026
+- 👩‍🏫 3 года репетитором по математике — умею объяснять сложное просто
+- 🔍 Ищу стажировку или первую роль аналитика данных / продуктового аналитика
+
+---
+
+📬 Telegram: [@ghikozzz](https://t.me/ghikozzz) · Открыта к предложениям
