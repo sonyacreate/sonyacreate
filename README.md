@@ -18,11 +18,11 @@
 
 ## 📂 Проекты портфолио
 
-| Проект | Описание | Стек | Статус |
+| Проект | Описание | Стек |
 |--------|----------|------|--------|
-| [A/B-тест: анализ ecommerce-эксперимента](#) | Статанализ A/B-теста на реальных данных Kaggle. Обнаружение проблем в данных, z-test, effect size, бизнес-вывод для PM | Python · pandas · scipy · seaborn | 🔄 В процессе |
-| [Воронка и retention: GA4 ecommerce](#) | Когортный анализ удержания, воронка конверсии, SQL window functions в BigQuery | SQL · BigQuery · Python | 🔜 Скоро |
-| [Churn-анализ: отток клиентов](#) | Сегментация клиентов, feature importance, продуктовые рекомендации | Python · sklearn · SQL | 🔜 Скоро |
+| [A/B-тест: анализ ecommerce-эксперимента](#) | Статанализ A/B-теста на реальных данных Kaggle. Обнаружение проблем в данных, z-test, effect size, бизнес-вывод для PM | Python · pandas · scipy · seaborn |процессе |
+| [Воронка и retention: GA4 ecommerce](#) | Когортный анализ удержания, воронка конверсии, SQL window functions в BigQuery | SQL · BigQuery · Python |
+| [Churn-анализ: отток клиентов](#) | Сегментация клиентов, feature importance, продуктовые рекомендации | Python · sklearn · SQL | 
 
 ---
 
